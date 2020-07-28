@@ -1,0 +1,5 @@
+*.pyc
+test*
+*.sh
+__pycache__
+dbconf.py
